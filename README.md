@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi There!
+- 🔭 I’m currently working on random projects and tidying up coursework from Dev Academy
+- 🌱 I’m currently learning Javascript, Typescript, API's, and various tools like React and Node
+- 💬 Ask me about Kiosk Software
+- 📫 How to reach me: https://www.linkedin.com/in/gerardverhaart/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love all things Star Wars!
