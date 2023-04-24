@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **gerard-verhaart/gerard-verhaart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi There!
 - 🔭 I’m currently working on random projects and tidying up coursework from Dev Academy
 - 🌱 I’m currently learning Javascript, Typescript, API's, and various tools like React and Node
 - 💬 Ask me about Kiosk Software
